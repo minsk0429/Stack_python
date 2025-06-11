@@ -41,6 +41,8 @@ print(stack.pop())  # Output: 3
 print(stack)        # Output: [1, 2]
 ```
 
+---
+
 ## Use Cases
 
 - Undo and redo functionality in applications
@@ -48,6 +50,18 @@ print(stack)        # Output: [1, 2]
 - Expression evaluation and syntax parsing
 - Browser back/forward navigation history
 - Depth-first search (DFS) algorithm in graphs and trees
+
+---
+
+## 🚀 Summary
+
+| Feature      | Stack         |
+|--------------|---------------|
+| Ordering     | LIFO          |
+| Insertions   | Top only      |
+| Deletions   | Top only      |
+| Indexable    | No            |
+| Use Case Examples | Undo/redo, function call stack, expression evaluation, DFS |
 
 ---
 The attached codes are Stacks implemented in Python including a Stack implemented as an array (function version and class), program for reversing strings, algorithm for checking parentheses, algorithm for calculating postfix expressions, program for converting infix expressions to postfix expressions, maze search function using DFS.
